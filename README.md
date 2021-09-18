@@ -1,6 +1,6 @@
 # Dart Practice
 
-[![Build Status].()
+
 
 ## (1)What are the various types of operators in dart? Explain with Examples.
 
@@ -53,4 +53,4 @@
 ### OR
 
 ## (13) Write a program that shows the message “First fifteen days of the month” if the date is less than 16th of the month else shows “Last days of the month”.
-# Best of Luck! 
+ 
