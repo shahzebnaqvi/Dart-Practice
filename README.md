@@ -1,5 +1,5 @@
-"#(1)What are the various types of operators in dart? Explain with Examples.
-(2)What will be the output in variables a, b & result after execution of the
+# (1)What are the various types of operators in dart? Explain with Examples.
+# (2)What will be the output in variables a, b & result after execution of the
 following script:
 a. var a = 2, b = 1;
 b. var result = --a - --b + ++b + b--;
@@ -8,7 +8,7 @@ c. --a;
 d. --a - --b;
 e. --a - --b + ++b;
 f. --a - --b + ++b + b--;
-(3)Cost of one movie ticket is 600 PKR. Write a script to store ticket price in a
+# (3)Cost of one movie ticket is 600 PKR. Write a script to store ticket price in a
 variable & calculate the cost of buying 5 tickets to a movie.
 (4) How to get difference of lists in Dart?
 Problem: Consider you have two lists [1,2,3,4,5,6,7] and [3,5,6,7,9,10]. How
