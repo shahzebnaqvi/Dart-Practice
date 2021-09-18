@@ -1,9 +1,13 @@
+# Dart Practice
+
+[![Build Status].()
+
 ## (1)What are the various types of operators in dart? Explain with Examples.
 
 ## (2)What will be the output in variables a, b & result after execution of thefollowing script:
 
-- [a.]. var a = 2, b = 1;
-- [b.]. var result = --a - --b + ++b + b--;
+- a. var a = 2, b = 1;
+- b. var result = --a - --b + ++b + b--;
 ### Explain the output at each stage:
 
 - c. --a;
