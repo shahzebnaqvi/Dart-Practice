@@ -2,8 +2,8 @@
 
 ## (2)What will be the output in variables a, b & result after execution of thefollowing script:
 
-- a. var a = 2, b = 1;
-- b. var result = --a - --b + ++b + b--;
+- [a.]. var a = 2, b = 1;
+- [b.]. var result = --a - --b + ++b + b--;
 ### Explain the output at each stage:
 
 - c. --a;
@@ -49,4 +49,4 @@
 ### OR
 
 ## (13) Write a program that shows the message “First fifteen days of the month” if the date is less than 16th of the month else shows “Last days of the month”.
-#Best of Luck! 
+# Best of Luck! 
