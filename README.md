@@ -1,4 +1,5 @@
 # Dart Practice
+![Build Status](https://img.shields.io/badge/Dart-Programming-green)
 
 ## (1)What are the various types of operators in dart? Explain with Examples.
 ```bash
